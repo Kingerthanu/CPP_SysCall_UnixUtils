@@ -1,4 +1,3 @@
-// Benjamin R. Spitzauer
 // mgrep.cpp
 
 #include <unistd.h>
