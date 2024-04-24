@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
   For Each Of The Implemented UNIX Utility Functions, This Is How They Will Be Utilized: 
 
-  - mgrep:  
+  &nbsp;- mgrep:  
     mgrep.cpp Is Used To Read In Given File(s) For A Specified Key Term, Printing The Lines Holding The Given Terms.
 
 
