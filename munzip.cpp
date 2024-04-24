@@ -1,4 +1,3 @@
-// Benjamin R. Spitzauer
 // munzip.cpp
 
 #include <unistd.h>
