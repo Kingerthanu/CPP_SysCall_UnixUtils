@@ -35,6 +35,9 @@ Implementation; Including Error Codes And Restrictions.
   Very Well. The Implementation Of mzip, and munzip Taught Me A Lot About The Need For Context/Interpretation Of Raw Bytes And How, Again, Everything Is Just Ones And Zeros And We Need Ways Of Interpreting
   These To Get The "Right" Answer.
 
+  Learning About File Parsing Also Was Intruiging And Helped Teach Me More How The OS Works As A Manager Of Our System; As Before I Knew OS Was A Big Deal But Not As Influential As I See It Now. More Direct Interrupting Seems
+  Like A Powerful Tool I Will Utilize In Further Projects For Asynchronous Interrupt Handling As It Shows Me How We Don't Need To Poll All The Time For Actions We Expect In This Asynchronous Manner.
+
 
 
 
