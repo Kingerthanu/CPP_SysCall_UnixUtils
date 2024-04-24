@@ -1,4 +1,3 @@
-// Benjamin R. Spitzauer
 // mcat.cpp
 
 #include <unistd.h>
