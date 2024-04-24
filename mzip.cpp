@@ -1,4 +1,3 @@
-// Benjamin R. Spitzauer
 // mzip.cpp
 
 #include <unistd.h>
