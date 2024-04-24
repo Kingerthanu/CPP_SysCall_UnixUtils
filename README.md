@@ -17,7 +17,7 @@ ________________________________________________________________________________
   For Each Of The Implemented UNIX Utility Functions, This Is How They Will Be Utilized:
 
   &nbsp; - mgrep: <br>
-  &ensp; mgrep.cpp Is Used To Read In Given File(s) For A Specified Key Term, Printing The Lines Holding The Given Terms.
+  &dbsp;  mgrep.cpp Is Used To Read In Given File(s) For A Specified Key Term, Printing The Lines Holding The Given Terms.
 
 <img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49">
 
