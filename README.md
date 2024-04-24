@@ -17,16 +17,16 @@ ________________________________________________________________________________
   For Each Of The Implemented UNIX Utility Functions, This Is How They Will Be Utilized: 
 
   - mgrep: <br>
-      └── mgrep.cpp Is Used To Read In Given File(s) For A Specified Key Term, Printing The Lines Holding The Given Terms.
+    └──  mgrep.cpp Is Used To Read In Given File(s) For A Specified Key Term, Printing The Lines Holding The Given Terms.
 
   - mcat: <br>
-    └── mcat.cpp Is Used To Read In A Given File(s) Contents And Print Them To The Terminal For The User.
+    └──  mcat.cpp Is Used To Read In A Given File(s) Contents And Print Them To The Terminal For The User.
 
   - mzip: <br>
-    └── mzip.cpp Is Used To Read In A Given File(s) Contents And Compress Them Based Upon The Run-Length Encoding Compression Algorithm.
+    └──  mzip.cpp Is Used To Read In A Given File(s) Contents And Compress Them Based Upon The Run-Length Encoding Compression Algorithm.
 
   - munzip: <br>
-        └── munzip.cpp Is Used To Read In A Given RLE Compressed File(s) Contents And Uncompress Them Based Upon The Run-Length Encoding Compression Algorithm.
+    └──  munzip.cpp Is Used To Read In A Given RLE Compressed File(s) Contents And Uncompress Them Based Upon The Run-Length Encoding Compression Algorithm.
 
 
 
