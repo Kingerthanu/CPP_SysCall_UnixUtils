@@ -14,10 +14,12 @@ ________________________________________________________________________________
   
   Between UNIX's Utilities And MY Utilities I Will Add A 'm' At The Start Of Each Util Name (I.E. mgrep, mcat, mzip, munzip).
 
-  For Each Of The Implemented UNIX Utility Functions, This Is How They Will Be Utilized:
+  For Each Of The Implemented UNIX Utility Functions, This Is How They Will Be Utilized: <br />
 
-  &nbsp;mgrep: <br />
-       <br />
+  mgrep:
+     mgrep.cpp Is Used To Read In Given File(s) For A Specified Key Term, Printing The Lines Holding The Given Terms.
+
+ <br />
 
 
 <img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49">
