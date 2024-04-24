@@ -22,7 +22,7 @@ ________________________________________________________________________________
   - mcat: <br>
     └── mcat.cpp Is Used To Read In A Given File(s) Contents And Print Them To The Terminal For The User.
 
-    - mzip: <br>
+  - mzip: <br>
     └── mzip.cpp Is Used To Read In A Given File(s) Contents And Compress Them Based Upon The Run-Length Encoding Compression Algorithm.
 
   - munzip: <br>
