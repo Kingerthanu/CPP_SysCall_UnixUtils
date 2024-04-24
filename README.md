@@ -8,7 +8,16 @@ ________________________________________________________________________________
 
 **The Breakdown:**
 
-....
+  This Program Works With C++ To Use The Terminal To Create Implementations Of Some UNIX Utilility Functions; Mainly grep, cat, unzip, and zip.
+
+  Each Implementation Should Have The Same Calling Signature (I.E. Supply Our Source File To Parse) From The Normal UNIX Function. Also, To Dilineniate
+  
+  Between UNIX's Utilities And MY Utilities I Will Add A 'm' At The Start Of Each Util Name (I.E. mgrep, mcat, mzip, munzip).
+
+  For Each Of The Implemented UNIX Utility Functions, This Is How They Will Be Utilized:
+
+  &nbsp; - mgrep: <br>
+  &nbsp;&nbsp; mgrep.cpp Is Used To Read In Given File(s) For A Specified Key Term, Printing The Lines Holding The Given Terms.
 
 <img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49">
 
