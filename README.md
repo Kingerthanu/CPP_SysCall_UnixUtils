@@ -28,7 +28,12 @@ ________________________________________________________________________________
   - munzip: <br>
     └──  munzip.cpp Is Used To Read In A Given RLE Compressed File(s) Contents And Uncompress Them Based Upon The Run-Length Encoding Compression Algorithm.
 
+  In This, I Also Included The Program's ReadMe In Which Goes More In Depth To The Behavior And Differences Between This Implementation Of The Given UNIX Function Vs The Literal
+Implementation; Including Error Codes And Restrictions.
 
+  Overall This Was A Super Fun And Informational Project To Do. I Tried Making It Hard On Myself By Using Solely SysCall(...) Requests To Ensure I Knew Where/What I Was Doing And It Worked
+  Very Well. The Implementation Of mzip, and munzip Taught Me A Lot About The Need For Context/Interpretation Of Raw Bytes And How, Again, Everything Is Just Ones And Zeros And We Need Ways Of Interpreting
+  These To Get The "Right" Answer.
 
 
 
