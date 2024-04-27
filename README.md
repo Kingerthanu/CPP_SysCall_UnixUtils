@@ -55,7 +55,7 @@ Normal Behaivor:
 ![UnixUtils-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_SysCall_UnixUtils/assets/76754592/597fb4e9-dbfc-4fa8-9c0d-a1c3b20da5e4)
 
 
-Error Behaivor (More Thoroughly Documented In Prog_README):
+Error Behaivor & grep'ing Using Keyterm From Standard Input (More Thoroughly Documented In Prog_README):
 
 ![UtilsErrorCallbacks-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/CPP_SysCall_UnixUtils/assets/76754592/8d9715dd-dcab-4342-af23-1dd73ca74faa)
 
