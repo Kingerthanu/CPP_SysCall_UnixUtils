@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 **The Breakdown:**
 
-  This Program Works With C++ To Use The Terminal To Create Implementations Of Some UNIX Utilility Functions; Mainly grep, cat, unzip, and zip.
+  This Program Works With C++ To Use The Terminal To Create Implementations Of Some UNIX Utilility Functions; Mainly grep, cat, unzip, And zip Using OS System Calls With File Directories.
 
   Each Implementation Should Have The Same Calling Signature (I.E. Supply Our Source File To Parse) From The Normal UNIX Function. Also, To Dilineniate
   
