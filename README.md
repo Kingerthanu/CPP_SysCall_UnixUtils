@@ -40,10 +40,7 @@ Implementation; Including Error Codes And Restrictions.
   Like A Powerful Tool I Will Utilize In Further Projects For Asynchronous Interrupt Handling As It Shows Me How We Don't Need To Poll All The Time For Actions We Expect In This Asynchronous Manner.
 
 
-
-
-
-<img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PythonSmallClicker/assets/76754592/540a38c0-344b-4f8b-8420-bdb88e6ae321" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_SysCall_UnixUtils/assets/76754592/11eb2797-02aa-4b85-80ce-07b10220f226" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_SysCall_UnixUtils/assets/76754592/11eb2797-02aa-4b85-80ce-07b10220f226" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_SysCall_UnixUtils/assets/76754592/11eb2797-02aa-4b85-80ce-07b10220f226" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_SysCall_UnixUtils/assets/76754592/11eb2797-02aa-4b85-80ce-07b10220f226" alt="Cornstarch <3" width="55" height="49">
 
 
 ______________________________________________________________________________________________
